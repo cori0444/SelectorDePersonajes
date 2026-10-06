@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 179, 251); 
+       color: rgb(153, 0, 255);
+       text-align: center;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 35px; }
+
+.ponys {
+    display: flex;
+    justify-content: center;
+}
+
+.ponys img{
+    width: 120px;
+    height: auto;
+    margin: 15px;
+}
+
+#seleccionado{
+    width: 150px;
+    margin-top: 25px;
+}
+ 
+p{
+    font-size: 20px;
+}
+
+
